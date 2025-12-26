@@ -1,0 +1,18 @@
+
+Based on the InterProScan results, the CFTR can be functionally predicted as follows:
+
+• Transmembrane Domains (TMDs) – ABC Transporter Type 1
+Multiple membrane-spanning helices form a pore for ions, indicating that the protein is membrane-localized and capable of ion transport.
+
+• CFTR Regulatory Domain (CFTR_R)
+Unique to CFTR among ABC transporters, this domain enables phosphorylation-dependent regulation, suggesting that channel activity is controlled by cellular signaling.
+
+• Nucleotide-Binding Domains (NBD / P-loop)
+These domains bind and hydrolyze ATP, providing the energy required to open and close the channel (gating mechanism).
+
+• AAA+ ATPase Domain
+Supports ATP-driven conformational changes, enhancing energy-dependent regulation of channel function.
+
+SUMMARY
+CFTR is a membrane-localized ABC transporter with multiple transmembrane helices forming an ion-conducting pore. 
+Its unique regulatory domain allows phosphorylation-dependent control, while nucleotide-binding and AAA+ ATPase domains provide ATP-driven gating and conformational regulation.

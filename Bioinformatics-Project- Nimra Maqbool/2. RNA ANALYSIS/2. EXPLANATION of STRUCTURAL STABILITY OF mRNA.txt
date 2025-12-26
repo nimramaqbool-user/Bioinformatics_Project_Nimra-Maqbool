@@ -1,0 +1,3 @@
+The RNA is thermodynamically stable, as shown by its low minimum free energy (MFE = -673.70 kcal/mol), but it rarely adopts this single structure (0% frequency).
+Instead, it exists as a mix of many possible conformations, contributing to an even more stable thermodynamic ensemble (-717.93 kcal/mol). 
+Its high ensemble diversity (521.66) shows that the RNA is highly flexible, constantly switching between different shapes rather than remaining in one fixed structure.

@@ -1,0 +1,8 @@
+The phylogenetic tree was constructed to examine the evolutionary relationships of the CFTR (Cystic Fibrosis Transmembrane Conductance Regulator) protein across vertebrate species, based on multiple sequence alignment of homologous CFTR sequences. 
+
+In the phylogenetic tree, closely related species cluster together, indicating a high degree of sequence similarity and evolutionary conservation. For example, mammals such as Canis lupus familiaris (dog), Felis catus (cat), Oryctolagus cuniculus (rabbit), Sciurus carolinensis (squirrel), Mus musculus (mouse), and Orcinus orca (killer whale) form tight clades with Homo sapiens, suggesting that CFTR has been strongly conserved during evolution within mammals. 
+This conservation implies that CFTR performs essential biological functions, particularly chloride ion transport in epithelial tissues, which are maintained across related species.
+
+More distantly related species, such as reptiles (Alligator sinensis, Sceloporus undulatus, Ophiophagus hannah), appear on separate branches, reflecting sequence divergence due to greater evolutionary distance. 
+
+Overall, the phylogenetic analysis demonstrates that the CFTR protein is evolutionarily conserved across vertebrates, supporting its critical role in maintaining epithelial ion transport and highlighting the relevance of mammalian models for functional and therapeutic studies of human cystic fibrosis.

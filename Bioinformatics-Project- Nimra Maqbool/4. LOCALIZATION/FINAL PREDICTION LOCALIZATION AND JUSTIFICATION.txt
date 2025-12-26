@@ -1,0 +1,7 @@
+Final predicted location:Endoplasmic reticulum (ER).
+
+Justification:
+DEEPLOC identifies a signal peptide and transmembrane domain, with high probabilities for ER-related compartments (ER, Golgi, lysosome/vacuole). 
+PSORT shows the strongest prediction for the endoplasmic reticulum (55.6%), with weaker support for vacuolar and Golgi locations. 
+This evidence collectively supports ER localization and potential trafficking through the secretory pathway.
+

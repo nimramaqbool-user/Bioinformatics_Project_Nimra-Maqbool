@@ -1,0 +1,16 @@
+CFTR acts as a central hub interacting with multiple proteins that control its folding, degradation, activation, and localization. 
+
+1.Folding & Quality Control:
+Chaperones like Hsc70 (HSPA8), Hsp90 (HSP90AA1), and CHIP (STUB1) assist proper folding and prevent misfolded CFTR accumulation.
+Misfolding leads to cystic fibrosis pathology.
+
+2.Degradation & Ubiquitination:
+E3 ligases (RNF5, STUB1) tag defective CFTR for proteasomal degradation, controlling protein levels.
+Excess degradation reduces functional CFTR at the membrane.
+
+3.Regulation by PKA:
+PKA subunits phosphorylate CFTR’s regulatory domain, activating chloride transport.
+
+4.Trafficking & Membrane Localization:
+Scaffold proteins (GOPC, NHERF1/2) anchor CFTR to the apical membrane, coordinating ion transport.
+CFTR function requires precise folding, controlled degradation, activation, and proper membrane targeting. Disruption of any of these interactions can contribute to cystic fibrosis, even beyond CFTR gene mutations.
